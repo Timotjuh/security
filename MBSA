@@ -1,0 +1,32 @@
+MBSA (Microsoft Baseline Security Analyzer) is een gratis tool ontwikkeld door Microsoft om de beveiliging van Windows-besturingssystemen en enkele andere Microsoft-producten te evalueren. Hier is een algemene stapsgewijze handleiding voor het gebruik van MBSA:
+
+Download en Installeer MBSA:
+Ga naar de officiële Microsoft-website en download de meest recente versie van MBSA. Volg de instructies om de tool op je systeem te installeren.
+
+Start de MBSA-tool:
+Nadat de installatie is voltooid, zoek en start de MBSA-tool op je systeem.
+
+Scan Opties Selecteren:
+Kies het type scan dat je wilt uitvoeren:
+
+Scan één of meerdere computers: Hiermee kun je specifieke computers scannen op kwetsbaarheden.
+Scan een domein: Hiermee kun je alle computers binnen een domein scannen.
+Scan een IP-adresbereik: Hiermee kun je een reeks IP-adressen scannen.
+Scanconfiguratie instellen:
+Selecteer de scanopties die je wilt gebruiken. Bijvoorbeeld:
+
+Beveiligingsupdates: Controleer of de laatste beveiligingsupdates zijn geïnstalleerd.
+Beveiligingsinstellingen: Controleer of de aanbevolen beveiligingsinstellingen zijn toegepast.
+Ontbrekende updates: Identificeer specifieke ontbrekende updates.
+Beveiligingsbeoordelingen: Voer een beveiligingsbeoordeling uit op basis van Microsoft-beveiligingsrichtlijnen.
+Start de Scan:
+Nadat je de scanopties hebt geconfigureerd, start je de scan.
+
+Analyseer de Resultaten:
+Zodra de scan is voltooid, analyseer je de resultaten. MBSA zal een gedetailleerd rapport genereren met de gevonden kwetsbaarheden en ontbrekende updates.
+
+Maak Corrigerende Actieplan:
+Gebruik de informatie uit het rapport om eventuele kwetsbaarheden aan te pakken. Dit kan het installeren van ontbrekende updates, het aanpassen van beveiligingsinstellingen of andere corrigerende maatregelen omvatten.
+
+Herhaal Scans Regelmatig:
+Beveiligingslandschappen veranderen voortdurend, dus het is belangrijk om regelmatig scans uit te voeren om ervoor te zorgen dat je systemen up-to-date en veilig blijven.
